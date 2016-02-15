@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Code Musings
 locale:           en_US
-url:
-
+url:  http://localhost:4000
+# url:  http://kat09kat09.github.io/myblog
 
 # Jekyll configuration
 
@@ -41,23 +41,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Kat Ngo
+  avatar: ProfilePic.jpg
+  bio: "My world currently revolves around Javascript & Coffee"
   email:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  google:
+  google: 
     plus: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: kat09kat09
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: katngo
   xing: #username
   instagram: #username
   lastfm: #username
