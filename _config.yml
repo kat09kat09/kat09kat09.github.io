@@ -2,8 +2,8 @@
 
 title:            Code Musings
 locale:           en_US
-url:  http://localhost:4000
-# url:  http://kat09kat09.github.io/myblog
+# url:  http://localhost:4000
+url:  http://kat09kat09.github.io
 
 # Jekyll configuration
 
